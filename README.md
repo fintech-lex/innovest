@@ -1,4 +1,4 @@
-# future-portfolio
+# Portfolio of the Future
 
 **InnoVest - identifying future innovators ahead of the financial markets.**
 
