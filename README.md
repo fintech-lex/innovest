@@ -1,7 +1,7 @@
 # Portfolio of the Future
 ## **InnoVest**
 
-*Innovative FinTech strategies built to own and power your Future...*
+*"Innovative FinTech strategies built to own and power your Future..."*
 ##
 MISSION STATEMENT: 
 
