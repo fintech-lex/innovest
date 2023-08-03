@@ -1,4 +1,5 @@
 # Portfolio of the Future
+
 ## **InnoVest**
 
 *"Innovative FinTech strategies built to own and power your Future..."*
@@ -9,4 +10,7 @@ Innovest is an advanced and innovative fintech wealth management solution, that 
 
 Innovest will equip users with the tools and resources to make informed investment decisions as self-directed, retail investors, in comparison to what we can offer in this dynamic and ever-evolving technology landscape.
 
+## SENTIMENT TRADING ENGINE
+
+Explanation of how InnoVest proprietary 'Sentimental Guiding Analsyis' aka 'SGA' engine was developed utilizing Google Trends worldwide and 'company name + sector name' search parameters, ingesting CSV under last year custom timeframe data, utilized dynamically as a Technical Analysis tool against public historical market data via Alpaca API. 
 
