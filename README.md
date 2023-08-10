@@ -1,6 +1,6 @@
 # **InnoVest**
 
-#### Discover the Next Generation of Tomorrow's Innovators *TODAY*
+#### "Discover the Next Generation of Tomorrow's Innovators *TODAY*"
 
 
 
@@ -17,10 +17,11 @@
 #### - *Santosh Passaoubdy for his work with Empyrial (https://github.com/ssantoshp/Empyrial)*
 #### - *Riskfolio-Lib by Dany Casas (https://github.com/sponsors/dcajasn)* 
 #### - *Pyfolio Reloaded by Stefan Jansen (https://github.com/stefan-jansen/pyfolio-reloaded)*
+#### - YOU... inspiring us to make this happen!
 
 ## Sources: 
 
-#### *Investopedia, Google, Yahoo, Nasdaq*
+#### *Investopedia, Google Trends, YahooFinance, Nasdaq API*
 
 ## Installation Instructions:
 
@@ -31,6 +32,7 @@ pip install pyfolio
 pip install pyfolio-reloaded
 pip install empyrial
 pip install riskfolio-lib
+pip install FinQuant
 
 ```
 ## Brought to by: 
